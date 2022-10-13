@@ -1,4 +1,3 @@
-from turtle import color
 import praw
 from praw import Reddit
 import discord
